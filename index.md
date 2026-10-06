@@ -34,8 +34,8 @@ We welcome demonstrations and discussions of:
 
 ## Repositories
 
- Repo | Description | Deployment |
-|-----|-------------|------------|
+| Repo | Description | Deployment |
+|------|-------------|------------|
 | Agent Chat Lab | You chat with a large language model. It can't touch your computer directly — instead it asks to use tools: run Python (with pandas), list/read/write files, search the web, and download pages or data. Your browser runs each tool and sends the result back. The model repeats this think → act → observe loop until it can answer. Every step is shown below as a purple card you can open. | https://angrave.github.io/agentic |
 | Ceramics | Visualize what you're working on. | https://ceramics.software-dev.ncsa.illinois.edu |
 | Docent  *https://github.com/ncsa/docent* | Docent is a configurable voice-and-web AI assistant that answers questions from your own documents — with citations — and can present slide decks, run multi-step document-processing programs, and connect to live systems like your wiki. | https://141.142.216.106 |
