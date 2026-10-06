@@ -36,13 +36,13 @@ We welcome demonstrations and discussions of:
 
 | Repo | Description | Deployment |
 |------|-------------|------------|
-| Agent Chat Lab | You chat with a large language model. It can't touch your computer directly — instead it asks to use tools: run Python (with pandas), list/read/write files, search the web, and download pages or data. Your browser runs each tool and sends the result back. The model repeats this think → act → observe loop until it can answer. Every step is shown below as a purple card you can open. | https://angrave.github.io/agentic |
-| Ceramics | Visualize what you're working on. | https://ceramics.software-dev.ncsa.illinois.edu |
-| Docent  *https://github.com/ncsa/docent* | Docent is a configurable voice-and-web AI assistant that answers questions from your own documents — with citations — and can present slide decks, run multi-step document-processing programs, and connect to live systems like your wiki. | https://141.142.216.106 |
-| Grant Sift  *https://github.com/ncsa/grant-sift* | Reads Grants.gov, 36 foundation and corporate-award pages, three sitemap-expanded funders and an RSS feed, scores each call for RSE relevance against a roster of past collaborators. | https://grant-sift.software-dev.ncsa.illinois.edu |
-| SUPERSTES  *https://github.com/longshuicy/SUPERSTES* | A short narrative web game in two chapters. Plain HTML/CSS/JS, no build step, no backend, no persistence. | https://longshuicy.github.io/SUPERSTES | 
-| TwentyFour  *https://github.com/longshuicy/twentyfour* | Four cards. Use each one exactly once with + − × ÷ to make 24. Clear the deck as fast as you can. | https://longshuicy.github.io/twentyfour |
-| WrongUINiverse  *https://github.com/longshuicy/wronguinverse* | A universe of four controls, where nothing means what it looks like. | https://longshuicy.github.io/wronguinverse |
+| [Agent Chat Lab](https://github.com/angrave/agentic)\Wenqi He | You chat with a large language model. It can't touch your computer directly — instead it asks to use tools: run Python (with pandas), list/read/write files, search the web, and download pages or data. Your browser runs each tool and sends the result back. The model repeats this think → act → observe loop until it can answer. Every step is shown below as a purple card you can open. | https://angrave.github.io/agentic |
+| [Ceramics](https://github.com/hwenchi/ceramics) | Visualize what you're working on. | https://ceramics.software-dev.ncsa.illinois.edu |
+| [Docent](https://github.com/ncsa/docent) | Docent is a configurable voice-and-web AI assistant that answers questions from your own documents — with citations — and can present slide decks, run multi-step document-processing programs, and connect to live systems like your wiki. | https://141.142.216.106 |
+| [Grant Sift](https://github.com/ncsa/grant-sift) | Reads Grants.gov, 36 foundation and corporate-award pages, three sitemap-expanded funders and an RSS feed, scores each call for RSE relevance against a roster of past collaborators. | https://grant-sift.software-dev.ncsa.illinois.edu |
+| [SUPERSTES](https://github.com/longshuicy/SUPERSTES) | A short narrative web game in two chapters. Plain HTML/CSS/JS, no build step, no backend, no persistence. | https://longshuicy.github.io/SUPERSTES | 
+| [TwentyFour](https://github.com/longshuicy/twentyfour) | Four cards. Use each one exactly once with + − × ÷ to make 24. Clear the deck as fast as you can. | https://longshuicy.github.io/twentyfour |
+| [WrongUINiverse](https://github.com/longshuicy/wronguinverse) | A universe of four controls, where nothing means what it looks like. | https://longshuicy.github.io/wronguinverse |
 
 ### Interested in Presenting?
 
