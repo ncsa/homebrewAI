@@ -34,7 +34,7 @@ We welcome demonstrations and discussions of:
 
 ## Repositories
 
-| Repo | Description | Deployment |
+| Repo/Author | Description | Deployment |
 |------|-------------|------------|
 | [Agent Chat Lab](https://github.com/angrave/agentic)<br>Lawrence Angrave | You chat with a large language model. It can't touch your computer directly — instead it asks to use tools: run Python (with pandas), list/read/write files, search the web, and download pages or data. Your browser runs each tool and sends the result back. The model repeats this think → act → observe loop until it can answer. Every step is shown below as a purple card you can open. | [https://angrave.github.io/agentic](https://angrave.github.io/agentic) |
 | [Ceramics](https://github.com/hwenchi/ceramics)<br>Wenqi He | Visualize what you're working on. | [https://ceramics.software-dev.ncsa.illinois.edu](https://ceramics.software-dev.ncsa.illinois.edu) |
@@ -42,6 +42,8 @@ We welcome demonstrations and discussions of:
 | [Grant Sift](https://github.com/ncsa/grant-sift)<br>Chen Wang | Reads Grants.gov, 36 foundation and corporate-award pages, three sitemap-expanded funders and an RSS feed, scores each call for RSE relevance against a roster of past collaborators. | [https://grant-sift.software-dev.ncsa.illinois.edu](https://grant-sift.software-dev.ncsa.illinois.edu) |
 | [SUPERSTES](https://github.com/longshuicy/SUPERSTES)<br>Chen Wang | A short narrative web game in two chapters. Plain HTML/CSS/JS, no build step, no backend, no persistence. | [https://longshuicy.github.io/SUPERSTES](https://longshuicy.github.io/SUPERSTES) | 
 | [TwentyFour](https://github.com/longshuicy/twentyfour)<br>Chen Wang | Four cards. Use each one exactly once with + − × ÷ to make 24. Clear the deck as fast as you can. | [https://longshuicy.github.io/twentyfour](https://longshuicy.github.io/twentyfour) |
+| [VGCartography]()<br>Max Burnette | Video game maps. | [https://www.vgcartography.com](https://www.vgcartography.com) |
+| [You are here.](https://github.com/longshuicy/YouAreHere)<br>Chen Wang | Every character starts inside their own story. Choose the worlds, pick someone in them, take the walls down, and watch who they end up knowing. | [](https://longshuicy.github.io/YouAreHere/lab)|
 | [WrongUINiverse](https://github.com/longshuicy/wronguinverse)<br>Chen Wang | A universe of four controls, where nothing means what it looks like. | [https://longshuicy.github.io/wronguinverse](https://longshuicy.github.io/wronguinverse) |
 
 ### Interested in Presenting?
