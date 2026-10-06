@@ -43,8 +43,8 @@ We welcome demonstrations and discussions of:
 | [SUPERSTES](https://github.com/longshuicy/SUPERSTES)<br>Chen Wang | A short narrative web game in two chapters. Plain HTML/CSS/JS, no build step, no backend, no persistence. | [https://longshuicy.github.io/SUPERSTES](https://longshuicy.github.io/SUPERSTES) | 
 | [TwentyFour](https://github.com/longshuicy/twentyfour)<br>Chen Wang | Four cards. Use each one exactly once with + − × ÷ to make 24. Clear the deck as fast as you can. | [https://longshuicy.github.io/twentyfour](https://longshuicy.github.io/twentyfour) |
 | [VGCartography]()<br>Max Burnette | Video game maps. | [https://www.vgcartography.com](https://www.vgcartography.com) |
-| [You are here.](https://github.com/longshuicy/YouAreHere)<br>Chen Wang | Every character starts inside their own story. Choose the worlds, pick someone in them, take the walls down, and watch who they end up knowing. | [](https://longshuicy.github.io/YouAreHere/lab)|
 | [WrongUINiverse](https://github.com/longshuicy/wronguinverse)<br>Chen Wang | A universe of four controls, where nothing means what it looks like. | [https://longshuicy.github.io/wronguinverse](https://longshuicy.github.io/wronguinverse) |
+| [You are here.](https://github.com/longshuicy/YouAreHere)<br>Chen Wang | Every character starts inside their own story. Choose the worlds, pick someone in them, take the walls down, and watch who they end up knowing. | [(https://longshuicy.github.io/YouAreHere/lab](https://longshuicy.github.io/YouAreHere/lab)|
 
 ### Interested in Presenting?
 
