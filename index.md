@@ -48,7 +48,7 @@ We welcome demonstrations and discussions of:
 
 ### Interested in Presenting?
 
-Contact [mchenry@illinois.edu](mchenry@illinois.edu) and bring your ideas, experiments, and curiosity.
+Contact [mchenry@illinois.edu](mailto:mchenry@illinois.edu) and bring your ideas, experiments, and curiosity.
 
 **Everyone Welcome.**
 
